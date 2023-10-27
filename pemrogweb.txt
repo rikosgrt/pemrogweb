@@ -1,4 +1,3 @@
 PEMROGWEB RESOLUSI
 - konsisten membuat project
 - konsisten mengembangkan ilmu coding
-- membuat forum diskusi
